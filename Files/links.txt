@@ -1,0 +1,13 @@
+Fonte original
+https://www.kaggle.com/contactprad/bike-share-daily-data
+Competição
+https://www.kaggle.com/c/bike-sharing-demand/data
+
+Ficheiro com as voltas dos utilizdores
+https://s3.amazonaws.com/capitalbikeshare-data/index.html
+Ficheiros extra
+https://gbfs.capitalbikeshare.com/gbfs/gbfs.json
+Info sobre esses ficheiros
+https://github.com/NABSA/gbfs/blob/master/gbfs.md#files
+Site para retirar a meteriologia
+https://power.larc.nasa.gov/data-access-viewer/
