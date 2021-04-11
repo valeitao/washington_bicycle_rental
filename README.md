@@ -22,4 +22,4 @@ Models used:
 1. Ensemble Estimators: **Random Forest Regressor**;
 2. Boosting estimators: **AdaBoost Regressor**;
 3. Bagging estimators: **Bagging Regressor**;
-4. **Support Vector Regressors** e **K-Nearest Neighbors**.
+4. **Support Vector Regressors** and **K-Nearest Neighbors**.
